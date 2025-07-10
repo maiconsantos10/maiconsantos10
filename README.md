@@ -8,7 +8,7 @@
 
 ### 🗂️ Portifólio Web 
 ├── 💼 [Github] (https://github.com/maiconsantos10) <br> 
-├── 💼 [Linkedin] - LINK <br> 
+├── <i class="fa fa-linkedin" aria-hidden="true"></i> [Linkedin] - LINK <br> 
 ├── 💼 [siteproprio.com.br] LINK <br>
 
 
