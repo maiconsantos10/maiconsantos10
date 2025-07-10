@@ -6,9 +6,15 @@
 
 ---
 
-#google.com# 🗂️ Meus Repositórios
+### 🗂️ Meus Repositórios 
+├── 💼 Portfólio Web (https://github.com/maiconsantos10)
+
+
 
 ### 📁 Projetos
+├── 🐍 Python - Curso em Vídeo
+├── ⚛️ React Básico
+└── 🔣 Algoritmos e Estruturas de Dados
 
 ### 📁 Estudos
 
