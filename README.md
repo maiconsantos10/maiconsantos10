@@ -17,9 +17,8 @@
 ├── ⚛️ React Básico
 └── 🔣 Algoritmos e Estruturas de Dados
 
-### 📁 Estudos - JAVA
+### ![JAVA](https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/256/FontAwesome-Brands-Java-icon.png) Estudos - JAVA
 ├── ✏️ [Exercício em Java #01 - Cálculo salarial de um funcionário] - https://github.com/maiconsantos10/exrcJavaCalculoFuncionario
-
 
 
 ### ![JAVASCRIPT](https://img.shields.io/badge/logo-javascript-blue?logo=javascript) Estudos - JavaScript
