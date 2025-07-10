@@ -6,9 +6,10 @@
 
 ---
 
-### 🗂️ Meus Repositórios 
-├── 💼 [Portfólio Web] (https://github.com/maiconsantos10)
-
+### 🗂️ Portifólio Web 
+├── 💼 [Github] (https://github.com/maiconsantos10)
+├── 💼 [Linkedin] - LINK
+├── 💼 [siteproprio.com.br] - LINK
 
 
 ### 📁 Projetos
@@ -16,8 +17,15 @@
 ├── ⚛️ React Básico
 └── 🔣 Algoritmos e Estruturas de Dados
 
-### 📁 Estudos
-├── ✏️ [Exercício em Java #01 - Cálculo salarial de um funcionário] https://github.com/maiconsantos10/exrcJavaCalculoFuncionario
+### 📁 Estudos - JAVA
+├── ✏️ [Exercício em Java #01 - Cálculo salarial de um funcionário] - https://github.com/maiconsantos10/exrcJavaCalculoFuncionario
+
+
+
+### 📁 Estudos - JavaScript
+├── ✏️ [Exercício em Java #01 - Desafio da lâmpada] - https://github.com/maiconsantos10/lamp
+
+
 
 ### 📁 Utilitários & Scripts
 
