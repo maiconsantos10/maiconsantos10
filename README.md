@@ -1,15 +1,15 @@
 <h1 align="center">🧑‍💻 Olá! Eu sou, Maicon.</h1>
 <p align="center">
-  Desenvolvedor em Desenvolvimento 👽 | Estudante de Tecnologia | 
+  Desenvolvedor em Desenvolvimento 👽 | Estudante e amante da Tecnologia | Análista de Suporte 
 </p>
 
 
 ---
 
 ### 🗂️ Portifólio Web 
-├── 💼 [Github] (https://github.com/maiconsantos10) <br> <br>
-├── 💼 [Linkedin] - LINK
-├── 💼 [siteproprio.com.br] - LINK
+├── 💼 [Github] (https://github.com/maiconsantos10) <br> 
+├── 💼 [Linkedin] - LINK <br> 
+├── 💼 [siteproprio.com.br] LINK <br>
 
 
 ### 📁 Projetos
