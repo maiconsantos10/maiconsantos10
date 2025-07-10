@@ -22,7 +22,7 @@
 
 
 
-### 📁 Estudos - JavaScript
+### !https://img.shields.io/badge/logo-javascript-blue?logo=javascript Estudos - JavaScript
 ├── ✏️ [Exercício em Java #01 - Desafio da lâmpada] - https://github.com/maiconsantos10/lamp
 
 
