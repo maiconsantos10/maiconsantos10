@@ -17,7 +17,7 @@
 └── 🔣 Algoritmos e Estruturas de Dados
 
 ### 📁 Estudos
-├── 💼 [Exercício em Java #01 - Cálculo salarial de um funcionário]https://github.com/maiconsantos10/exrcJavaCalculoFuncionario
+├── ✏️ [Exercício em Java #01 - Cálculo salarial de um funcionário] https://github.com/maiconsantos10/exrcJavaCalculoFuncionario
 
 ### 📁 Utilitários & Scripts
 
