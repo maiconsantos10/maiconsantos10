@@ -8,7 +8,6 @@
 
 ### 🗂️ Portifólio Web 
 ├── 💼 [Github] (https://github.com/maiconsantos10) <br> 
-├──  ![Estrela](https://img.shields.io/badge/&#x2B;star-yellow) - LINK <br> 
 ├── 💼 [siteproprio.com.br] LINK <br>
 
 
