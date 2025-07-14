@@ -8,8 +8,10 @@
 
 ### 🗂️ Portifólio Web 
 ├── 💼 [Github] (https://github.com/maiconsantos10) <br> 
-├── 💼 [siteproprio.com.br] LINK <br>
 
+├── 💼 [siteproprio.com.br] LINK <br> #CODING...
+
+---
 
 ### 📁 Projetos
 ├── 🐍 Python - Curso em Vídeo
@@ -17,13 +19,9 @@
 └── 🔣 Algoritmos e Estruturas de Dados
 
 
-
-### 📁 Utilitários & Scripts
-
 ---
 
 ## 🌱 Sobre Mim
-
 - 🎓 Estudando POO em Javinha e a Arte do Pentest
 - 🧠 Interessado em Desenvolvimento de Sistemas e Pentest
 - 🚀 Sempre aprendendo algo novo e compartilhando no GitHub
@@ -31,7 +29,6 @@
 ---
 
 ## 📫 Como me encontrar
-  
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:maiconemanueldeoliveira@outlook.com)
 
 ---
