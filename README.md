@@ -7,9 +7,9 @@
 ### 🗂️ Linguagens 
 <div style="display: inline_block">
   JavaScript <br>
-  ├──  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> <i height="20" width="20"> && </i>
-  ├──  <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"> <i height="20" width="20"> && </i>
-  ├──  <img align="center" alt="Rafa-CSS" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <i height="20" width="20"> && </i>
+  ├──  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> <i> && </i>
+  ├──  <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"> <i> && </i>
+  ├──  <img align="center" alt="Rafa-CSS" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <i> && </i>
 </div>
 
 
