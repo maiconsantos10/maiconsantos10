@@ -6,8 +6,8 @@
 
 ### 🗂️ Linguagens 
 <div style="display: inline_block">
-  ├──  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </center><br> <br>
-  ├──  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </center><br> <br>
+  ├──  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </center><br> <br>
+  ├──  <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </center><br> <br>
   ├──  <img align="center" alt="Rafa-CSS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> </center><br> <br>
 </div>
 
