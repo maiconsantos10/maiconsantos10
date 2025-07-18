@@ -7,7 +7,7 @@
 ### 🗂️ Linguagens 
 <div style="display: inline_block">
   <br>
-  ├──  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://www.svgrepo.com/show/500761/ampersand.svg">, <br> 
+  ├──  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://www.svgrepo.com/show/500761/ampersand.svg"> <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://www.svgrepo.com/show/500761/ampersand.svg">, <br> 
   
   ├──  <img align="center" alt="Rafa-HTML" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"> <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://www.svgrepo.com/show/500761/ampersand.svg">, <br>
   
