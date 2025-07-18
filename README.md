@@ -7,7 +7,7 @@
 ### 🗂️ Linguagens 
 <div style="display: inline_block">
   ├──  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> <br> <br>
-  ├──  <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg> <br> <br>
+  ├──  <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"> <br> <br>
   ├──  <img align="center" alt="Rafa-CSS" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <br> <br>
 </div>
 
