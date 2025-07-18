@@ -1,10 +1,10 @@
 <h1 align="center">🧑‍💻 Olá! Eu sou, Maicon.</h1>
 <p align="center">
-  Desenvolvedor em Desenvolvimento 👽 | Estudante e amante da Tecnologia | Análista de Suporte 
+  Desenvolvedor em Desenvolvimento 👽 | Estudante e amante da Tecnologia | Análista de Suporte <br> <br>
 </p>
 
 
-### 🗂 Linguagens 
+###  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://www.svgrepo.com/show/349334/dev-to.svg">  Linguagens <br> <br>
 
 <div style="display: inline_block">
   
