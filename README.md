@@ -11,7 +11,7 @@
   
   ├──  <img align="center" alt="Rafa-HTML" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"> <i> && </i>
   
-  ├──  <img align="center" alt="Rafa-CSS" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <i> && </i>
+  ├──  <img align="center" alt="Rafa-CSS" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
 </div>
 
 
