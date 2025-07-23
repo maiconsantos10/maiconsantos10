@@ -1,6 +1,6 @@
-<h1 align="center">🧑‍💻 System.out.Println("Hello World! Eu sou, Maicon Emanuel");</h1>
+<h1 align="center"> System.out.Println("Hello World! Eu sou, Maicon Emanuel");</h1>
 <p align="center">
-  Desenvolvedor sempre em Desenvolvimento 👽 | Eterno estudante e amante da Tecnologia | Carreira atual: Analista de Suporte <br> <br>
+  Desenvolvedor sempre em Desenvolvimento  💫  | Eterno estudante e amante da Tecnologia | Carreira atual: Analista de Suporte <br> <br>
 </p>
 
 
@@ -18,28 +18,28 @@
 
 ---
 
-###  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://www.svgrepo.com/show/501060/web.svg"> Portifólio Web 
+###  💫 Portifólio Web 
 ├── 💼 [Github] (https://github.com/maiconsantos10) <br> 
 
 ├── 💼 [Linkedin] (https://www.linkedin.com/in/maiconemanuel) <br> 
 
 ---
 
-### 📁 Projetos
+###  💫  Projetos
 ├── Loading... <br>
 └── Pending...
 
 
 ---
 
-## 🌱 Sobre Mim
+##  💫  Sobre Mim
 - 🎓 Estudando Javinha e a Arte do Pentes
 - 🧠 Interessado em Desenvolvimento de Sistemas 
 - 🚀 Sempre aprendendo algo novo e compartilhando no GitHub
 
 ---
 
-## 📫 Como me encontrar
+##  💫  Como me encontrar
 <div>
   <center>  
   <a href="https://www.linkedin.com/in/maiconemanuel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
