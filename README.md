@@ -1,6 +1,6 @@
-<h1 align="center">🧑‍💻 Olá! Eu sou, Maicon.</h1>
+<h1 align="center">🧑‍💻 System.out.Println("Hello World! Eu sou, Maicon Emanuel");</h1>
 <p align="center">
-  Desenvolvedor em Desenvolvimento 👽 | Estudante e amante da Tecnologia | Análista de Suporte <br> <br>
+  Desenvolvedor sempre em Desenvolvimento 👽 | Eterno estudante e amante da Tecnologia | Carreira atual: Analista de Suporte <br> <br>
 </p>
 
 
@@ -8,7 +8,7 @@
 
 <div style="display: inline_block">
   
-  ├──  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">  <i> && </i> <br> <br>
+  ├──  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">  <br> <br>  <i> && </i> <br> <br>
   
  
   
@@ -21,21 +21,20 @@
 ###  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://www.svgrepo.com/show/501060/web.svg"> Portifólio Web 
 ├── 💼 [Github] (https://github.com/maiconsantos10) <br> 
 
-├── 💼 [siteproprio.com.br] LINK <br> #CODING...
+├── 💼 [Linkedin] (https://www.linkedin.com/in/maiconemanuel) <br> 
 
 ---
 
 ### 📁 Projetos
-├── 🐍 Python - Curso em Vídeo
-├── ⚛️ React Básico
-└── 🔣 Algoritmos e Estruturas de Dados
+├── Loading... <br>
+└── Pending...
 
 
 ---
 
 ## 🌱 Sobre Mim
-- 🎓 Estudando POO em Javinha e a Arte do Pentest
-- 🧠 Interessado em Desenvolvimento de Sistemas e Pentest
+- 🎓 Estudando Javinha e a Arte do Pentes
+- 🧠 Interessado em Desenvolvimento de Sistemas 
 - 🚀 Sempre aprendendo algo novo e compartilhando no GitHub
 
 ---
