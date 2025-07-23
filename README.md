@@ -10,7 +10,7 @@
   
   ├──  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">  <i> && </i> <br> <br>
   
-  ├──  <img align="center" alt="Rafa-HTML" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"> <i> && </i> <br>
+ 
   
   ├──  <img align="center" alt="Rafa-CSS" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
 </div>
