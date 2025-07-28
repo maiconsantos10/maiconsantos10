@@ -2,6 +2,7 @@
 <p align="center">
   Desenvolvedor sempre em Desenvolvimento  💫  | Eterno estudante e amante da Tecnologia | Carreira atual: Analista de Suporte <br> <br>
 </p>
+<img src="https://media1.tenor.com/m/twEE-tbBHcgAAAAd/urabe-mikoto.gif">
 
 
 ###  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://www.svgrepo.com/show/349334/dev-to.svg">  Linguagens <br> <br>
@@ -14,6 +15,8 @@
   
   ├──  <img align="center" alt="Rafa-CSS" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
 </div>
+
+
 
 
 ---
