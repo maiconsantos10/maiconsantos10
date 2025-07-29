@@ -28,9 +28,14 @@
 ---
 
 ###  💫 Portifólio Web 
-├── 💼 [Github] (https://github.com/maiconsantos10) <br> 
 
-├── 💼 [Linkedin] (https://www.linkedin.com/in/maiconemanuel) <br> 
+├── 💼 [Portifólio] <a href="https://portifoliomaicon-deploy.s3.us-east-2.amazonaws.com/portifolio-maicon/index.html"> Portifólio - DEV </a> <br>
+
+├── 💼 [Github] https://github.com/maiconsantos10 <br> 
+
+├── 💼 [Linkedin] https://www.linkedin.com/in/maiconemanuel <br> 
+
+
 
 ---
 
