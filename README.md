@@ -48,7 +48,7 @@
 ---
 
 ##  💫  Sobre Mim
-- 🎓 Estudando Javinha e a Arte do Pentes
+- 🎓 Estudando Javinha e a Arte do Pentest
 - 🧠 Interessado em Desenvolvimento de Sistemas 
 - 🚀 Sempre aprendendo algo novo e compartilhando no GitHub
 
